@@ -51,11 +51,11 @@ Remote work intensity did not show a statistically significant association with 
 
 ### Figure 1. Remote Work Intensity vs Burnout
 ![Figure 1](figures/fig1_remote_intensity_vs_burnout.png)
-<img width="2400" height="1500" alt="fig1_remote_intensity_vs_burnout" src="https://github.com/user-attachments/assets/4df71bb9-b709-495e-bc50-1ce008a72eee" />
+<img width="2400" height="1500" alt="fig1_remote_intensity_vs_burnout" src="https://github.com/user-attachments/assets/8a8831d7-c278-4cad-81f6-012fb51b4a4c" />
 
 ### Figure 2. Burnout Distribution by Work Arrangement
 ![Figure 2](figures/fig2_burnout_by_arrangement.png)
-<img width="2400" height="1500" alt="fig2_burnout_by_arrangement" src="https://github.com/user-attachments/assets/cb806b4d-b729-4b98-8fcd-a6141bec9c5e" />
+<img width="2400" height="1500" alt="fig2_burnout_by_arrangement" src="https://github.com/user-attachments/assets/6ec00c6d-7b6f-4770-9648-a1ba38c0d358" />
 
 ## Domain Model
 The conceptual model and statistical outputs are available in the `domain_model_outputs/` directory.
